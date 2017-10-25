@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+
+.coming_soon {
+	color: white;
+	text-align: center;
+}
+
+h2 {
+	font-family: Verdana;
+	font-weight: 300px;
+	font-size: 42px;
+}
+
+.subtitle {
+	font-family: Verdana;
+	font-size: 21px;
+	color: gray;
+}
+
+.footer {
+	text-align: right;
+	color: gray;
+}
